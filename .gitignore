@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+basicplot1.py
+
 # C extensions
 *.so
 
